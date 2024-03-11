@@ -1,4 +1,4 @@
-# AutoTareas_Hist_PAE
+# Auto_Tareas_Historial_PAE
 - Personal automation to work tasks.
 
 - Stack a utilizar.
@@ -35,9 +35,10 @@ Que cambiamos, donde y por quê?
 ### Datos de ejecución, ficheros, inputs, etc.
 
 - Se debe guardar las informaciones para futuras ejecuciones.
-- - Ficheros Json (Serán añadidos a la carpeta como archivos, y se podra leer)
-- - Inputs de flujos (Serán incluidos los utilzados en el testeo)
-- - Otros datos de ejecución (texto plano para describir una o otra cosa particular)
+- - Ficheros Json (Serán añadidos a la carpeta como archivos, y se podra leer).
+- - Inputs de flujos (Serán incluidos los utilzados en el testeo).
+- - Otros datos de ejecución (texto plano para describir una o otra cosa particular).
+- - Ejecuciones en WEB "link" + resultado (Success/Error).
 
 ### Ficheros usados cambiados o creados en la Tarea.
 
